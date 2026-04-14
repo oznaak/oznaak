@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **motap023@gmail.com**
 
-- ⚡ Fun fact **I lost my previous account cause of 2-FA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
