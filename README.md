@@ -14,7 +14,7 @@
 </p>
 
 <a href="#oznaak-title">
-  <img src="https://raw.githubusercontent.com/oznaak/github-stats-transparent/output/generated/overview.svg" alt="oznaak" align="right" />
+  <img src="https://raw.githubusercontent.com/oznaak/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="oznaak" align="right" />
 </a>
 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
