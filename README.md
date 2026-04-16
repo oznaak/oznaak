@@ -13,13 +13,12 @@
   </a>
 </p>
 
-<a href="#oznaak-title">
-  <img src="https://raw.githubusercontent.com/oznaak/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="oznaak" align="right" />
-</a>
-
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<br>
+<a href="#oznaak-title">
+  <img src="https://raw.githubusercontent.com/oznaak/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="oznaak" />
+</a>
+
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
